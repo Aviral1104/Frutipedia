@@ -1,0 +1,5 @@
+flutter pub add google_fonts
+flutter pub add firebase_auth
+flutter pub add firebase_core
+image_picker
+flutter pub add tflite_flutter
